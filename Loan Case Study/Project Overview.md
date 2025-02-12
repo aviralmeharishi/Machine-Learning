@@ -43,3 +43,7 @@ This project aims to predict whether a customer will accept a personal loan offe
 - 🔧 Further feature engineering to improve performance.
 - 🌍 Implementing model deployment using a web application.
 - ✅ Testing the model on real-world customer data for validation.
+
+## ⚠️ Disclaimer
+This project is developed for educational purposes, and all rights and credits for the dataset and learning resources go to **Great Learning**. This work is inspired by their course materials and datasets used for training and skill enhancement. 🚀
+
